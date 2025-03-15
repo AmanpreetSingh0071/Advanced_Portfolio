@@ -1,3 +1,4 @@
+import { sanityClient } from "../sanity";
 import { Social } from "../typings";
 
 export const fetchSocials = async () => {
