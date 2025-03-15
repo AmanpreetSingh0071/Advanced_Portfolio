@@ -1,5 +1,5 @@
 
-
+import { sanityClient } from "../sanity";
 import { PageInfo } from "../typings";
 
 export const fetchPageInfo = async() => {
